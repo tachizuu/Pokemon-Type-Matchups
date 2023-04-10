@@ -1,0 +1,1092 @@
+[
+  {
+    "type": "normal",
+    "offenses": [
+      {
+        "type": "rock",
+        "value": 0.5
+      },
+      {
+        "type": "ghost",
+        "value": 0
+      },
+      {
+        "type": "steel",
+        "value": 0.5
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fighting",
+        "value": 2
+      },
+      {
+        "type": "ghost",
+        "value": 0
+      },
+    ]
+  },
+  {
+    "type": "fire",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "dragon",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "ground",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ]
+  },
+  {
+    "type": "water",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "dragon",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "electric",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ]
+  },
+  {
+    "type": "grass",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "dragon",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 2,
+      },
+      {
+        "type": "ground",
+        "value": 0.5,
+      },
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "electric",
+    "offenses": [
+      {
+        "type": "water",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 0,
+      },
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "dragon",
+        "value": 0.5,
+      },
+
+    ],
+    "defenses": [
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+
+    ]
+  },
+  {
+    "type": "ice",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "dragon",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "fighting",
+    "offenses": [
+      {
+        "type": "normal",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "psychic",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 0,
+      },
+      {
+        "type": "dark",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "psychic",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "poison",
+    "offenses": [
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "ghost",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0,
+      },
+      {
+        "type": "fairy",
+        "value": 2,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "psychic",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ]
+  },
+  {
+    "type": "ground",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 0,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "water",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+
+      {
+        "type": "electric",
+        "value": 0,
+      },
+
+      {
+        "type": "ice",
+        "value": 2,
+      },
+
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+    ]
+  },
+  {
+    "type": "flying",
+    "offenses": [
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 0,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "psychic",
+    "offenses": [
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 2,
+      },
+      {
+        "type": "psychic",
+        "value": 0.5,
+      },
+      {
+        "type": "dark",
+        "value": 0,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+
+    "defenses": [
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "psychic",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 2,
+      },
+      {
+        "type": "dark",
+        "value": 2,
+      },
+    ],
+  },
+  {
+    "type": "bug",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "psychic",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 0.5,
+      },
+      {
+        "type": "dark",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ],
+
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 0.5,
+      },
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+    ],
+  },
+  {
+    "type": "rock",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 0.5,
+      },
+      {
+        "type": "flying",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "normal",
+        "value": 0.5,
+      },
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 2,
+      },
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "ghost",
+    "offenses": [
+      {
+        "type": "normal",
+        "value": 0,
+      },
+      {
+        "type": "psychic",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 2,
+      },
+      {
+        "type": "dark",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "normal",
+        "value": 0,
+      },
+      {
+        "type": "fighting",
+        "value": 0,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "ghost",
+        "value": 2,
+      },
+      {
+        "type": "dark",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "dragon",
+    "offenses": [
+      {
+        "type": "dragon",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 0,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "dragon",
+        "value": 2,
+      },
+      {
+        "type": "fairy",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "dark",
+    "offenses": [
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "psychic",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 2,
+      },
+      {
+        "type": "dark",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "psychic",
+        "value": 0,
+      },
+      {
+        "type": "bug",
+        "value": 2,
+      },
+      {
+        "type": "ghost",
+        "value": 0.5,
+      },
+      {
+        "type": "dark",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 2,
+      },
+    ]
+  },
+  {
+    "type": "steel",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "water",
+        "value": 0.5,
+      },
+      {
+        "type": "electric",
+        "value": 0.5,
+      },
+      {
+        "type": "ice",
+        "value": 2,
+      },
+      {
+        "type": "rock",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 2,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "normal",
+        "value": 0.5,
+      },
+      {
+        "type": "fire",
+        "value": 2,
+      },
+      {
+        "type": "grass",
+        "value": 0.5,
+      },
+      {
+        "type": "ice",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 0,
+      },
+      {
+        "type": "ground",
+        "value": 2,
+      },
+      {
+        "type": "flying",
+        "value": 0.5,
+      },
+      {
+        "type": "psychic",
+        "value": 0.5,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "rock",
+        "value": 0.5,
+      },
+      {
+        "type": "dragon",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+      {
+        "type": "fairy",
+        "value": 0.5,
+      },
+    ]
+  },
+  {
+    "type": "fairy",
+    "offenses": [
+      {
+        "type": "fire",
+        "value": 0.5,
+      },
+      {
+        "type": "fighting",
+        "value": 2,
+      },
+      {
+        "type": "poison",
+        "value": 0.5,
+      },
+      {
+        "type": "dragon",
+        "value": 2,
+      },
+      {
+        "type": "dark",
+        "value": 2,
+      },
+      {
+        "type": "steel",
+        "value": 0.5,
+      },
+    ],
+    "defenses": [
+      {
+        "type": "fighting",
+        "value": 0.5,
+      },
+      {
+        "type": "poison",
+        "value": 2,
+      },
+      {
+        "type": "bug",
+        "value": 0.5,
+      },
+      {
+        "type": "dragon",
+        "value": 0,
+      },
+      {
+        "type": "dark",
+        "value": 0.5,
+      },
+      {
+        "type": "steel",
+        "value": 2,
+      },
+    ]
+  },
+]
